@@ -27,6 +27,6 @@ To run this model in your system make sure to install all the libraries and then
 
 You can make your own dataset as well just add your clear photo in the empty folder "imgAttendance" file and then run the "AttendanceProject.py"and the model will detect your face through facecam
 
-## reference
+## Reference
 
 [Click here to know more](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
