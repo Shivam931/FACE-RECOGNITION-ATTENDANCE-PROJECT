@@ -56,7 +56,7 @@ encodeListKnown = findEncodings(images)
 print("encoding complete")
 
 
-img = face_recognition.load_image_file('test1.jpg')
+img = face_recognition.load_image_file('test3.jpg')
 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
 facesCurFrame = face_recognition.face_locations(img)
