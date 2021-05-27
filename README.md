@@ -15,6 +15,11 @@ The model first takes the encodings of faces from the dataset store in "imgAtten
 - numpy
 - Pandas
 
+## Results
+![](Results/Img1.jpg)
+
+![](Results/img2.jpg)
+
 ## Running the model in your system
 
 To run this model in your system make sure to install all the libraries and then run the "AttendanceProject1.py" file you can check all the test img given in the repository by changing the img variable in the code for each image
