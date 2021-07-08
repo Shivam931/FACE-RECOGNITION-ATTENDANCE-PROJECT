@@ -25,7 +25,7 @@ The model first takes the encodings of faces from the dataset store in "imgAtten
 
 To run this model in your system make sure to install all the libraries and then run the "AttendanceProject1.py" file you can check all the test img given in the repository by changing the img variable in the code for each image
 
-You can make your own dataset as well just add your clear photo in the empty folder "imgAttendance" file and then run the "AttendanceProject.py"and the model will detect your face through facecam
+You can make your own dataset as well just add your clear photo with your name as the file name in the empty folder "imgAttendance" file and then run the "AttendanceProject.py"and the model will detect your face through facecam
 
 ## Reference
 
